@@ -1,0 +1,1 @@
+This is the first Python project created by myself. A simple terminal-based text adventure game using print statements, user input, and functions to operate.
