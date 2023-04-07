@@ -171,7 +171,7 @@ def cross_roads():
                 else:
                     print("\nPlease input a valid action.\n")
         elif user_input == actions_cross[2]:
-            # Right Door option. Copy & Paste the crossroad return function output to this.
+            # Right Door option. Copy & Paste the crossroad return function output to this.  RESUME HERE, RESUME HERE, RESUME HERE
         else:
             print("\nPlease input a valid action.\n")
 
