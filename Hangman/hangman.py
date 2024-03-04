@@ -1,4 +1,5 @@
-# A
+# A terminal-based Hangman game I made while taking a Python course
+# Author: Revan
 
 import random
 import hm_art as art
