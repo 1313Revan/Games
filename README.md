@@ -1,2 +1,2 @@
 # Python Games
-This repo contains any acivities/games I've created in Python.
+This repo will contain any games I make with Python.
