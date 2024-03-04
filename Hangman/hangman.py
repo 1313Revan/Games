@@ -1,4 +1,4 @@
-# This is a project from Angela Wu's 100 Days of Code Python bootcamp
+# A
 
 import random
 import hm_art as art
