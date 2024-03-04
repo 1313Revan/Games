@@ -1,4 +1,7 @@
-# This is a project from Angela Wu's 100 Days of Code Python bootcamp
+# A terminal-based Blackjack script I made while learning Python.
+# 
+# Author: Revan
+# Date: 3/4/24
 
 import random
 from blkjk_art import logo
