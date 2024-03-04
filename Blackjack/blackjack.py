@@ -1,5 +1,5 @@
 # A terminal-based Blackjack script I made while learning Python.
-# 
+
 # Author: Revan
 # Date: 3/4/24
 
