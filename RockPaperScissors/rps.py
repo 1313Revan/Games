@@ -1,4 +1,5 @@
-# This is a project from Angela Wu's 100 Days of Code Python bootcamp
+# A terminal-based Rock Paper Scissors I made while taking a Python course
+# Author: Revan
 
 import random
 import rps_art as art
