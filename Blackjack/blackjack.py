@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# coding: utf-8
+
 # A terminal-based Blackjack script I made while learning Python.
 
 # Author: Revan
