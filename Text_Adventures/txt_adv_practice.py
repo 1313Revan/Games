@@ -1,4 +1,5 @@
 # A short text adventure made as practice while I was taking a Python course
+# Author: Revan
 
 print('''
 *******************************************************************************
