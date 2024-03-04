@@ -1,4 +1,4 @@
-# This is a project from Angela Wu's 100 Days of Code Python bootcamp
+# A short text adventure made as practice while I was taking a Python course
 
 print('''
 *******************************************************************************
@@ -27,7 +27,7 @@ print('Can you survive the adventure that awaits you?\n')
 print('-------------------------------------------------------------------------------\n')
 
 print('Let\'s begin with your name. What is it adventurer?\n')
-p_name = input('\n>> ')
+p_name = input('\n>> ').title()
 print(f'\nWelcome {p_name}! Please type your choice!\n')
 
 print('1. Begin Story\n2. Exit Game\n')
