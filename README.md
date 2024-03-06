@@ -5,3 +5,4 @@ This repo contains terminal-based Python games I've made.
 - Rock Paper Scissors
 - Hangman
 - Blackjack
+- Number Guess
