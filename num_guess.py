@@ -1,4 +1,7 @@
-# This is a project from Angela Wu's 100 Days of Code Python bootcamp
+# A terminal-based number guessing game I made while learning basic Python
+
+# Author: Revan
+# Date: 3/6/24
 
 from random import randint
 
