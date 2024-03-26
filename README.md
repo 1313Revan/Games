@@ -7,3 +7,4 @@ This repo contains terminal-based Python games I've made.
 - Blackjack
 - Number Guess
 - Turtle Race
+- Snake
