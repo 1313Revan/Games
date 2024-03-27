@@ -1,3 +1,6 @@
+# Here is an endless game of Pong
+# Made alongside Angela Yu in her Python bootcamp
+
 import time
 from turtle import Screen
 
@@ -41,6 +44,7 @@ while game:
         ball.reset_ball()
         scoreboard.p1_point()
 
+    # right player scores
     if ball.xcor() < -380:
         ball.reset_ball()
         scoreboard.p2_point()
