@@ -1,5 +1,5 @@
 # Python Games
-This repo contains terminal-based Python games I've made.
+This repo contains Python games I've made myself or made while following alongside Angela Yu in her bootcamp.
 
 - Text Adventure
 - Rock Paper Scissors
