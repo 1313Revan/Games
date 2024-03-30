@@ -1,6 +1,5 @@
 from turtle import Turtle
 
-ALIGNMENT = "center"
 FONT = ("Courier", 20, "normal")
 
 
@@ -17,9 +16,9 @@ class Scoreboard(Turtle):
 
     def update_score(self):
         self.clear()
-        self.write(arg=f"Score: {self.score}\tHigh Score: {self.highscore}", align=ALIGNMENT, font=FONT)
+        self.write(arg=f"Score: {self.score}\tHigh Score: {self.highscore}", align="center", font=FONT)
 
-    def reset(self):
+    def score_reset(self):
         if self.score > self.highscore:
             self.highscore = self.score
         self.score = 0

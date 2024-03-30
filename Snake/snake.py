@@ -26,7 +26,7 @@ class Snake:
         new_part.goto(position)
         self.segments.append(new_part)
 
-    def reset(self):
+    def snake_reset(self):
         for segment in self.segments:
             segment.goto(x=500, y=500)
         self.segments.clear()
